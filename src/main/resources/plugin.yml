@@ -1,0 +1,4 @@
+name: AquaSwitcher
+version: '${project.version}'
+main: me.aquatwo.aquaswitcher.AquaSwitcher
+api-version: '1.20'
